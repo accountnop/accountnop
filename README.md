@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Fraga 🖐️
 
-[![Blog](https://img.shields.io/badge/Discord-007ACC?style=for-the-badge&logo=discord&logoColor=white)](https://sujeitoprogramador.com)
+[![Blog](https://img.shields.io/badge/Discord-007ACC?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pAet8FmKB3)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrzAXm5lswusTexmW8gLtZw)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=accountnop&show_icons=true&theme=dracula&count_private=true)
