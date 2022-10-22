@@ -16,5 +16,5 @@
 
 ### My Projects:
 - [Mora Security](about:blank)<br/>
-- [Nub.xyz](/magmaisgay)<br/>
+- [Nub.xyz](https://github.com/accountnop/magmaisgay)<br/>
 
