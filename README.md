@@ -18,7 +18,7 @@
 ## Discord Status
   <p align="center">
     <a href="https://discord.com/users/622503878226870273">
-        <img title="Nub server discord" alt="NUb.xyz discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="Nub server discord" alt="NUb.xyz discord" src="https://discord.c99.nl/widget/theme-1/622503878226870273.png"/>
     </a>
 </p> 
  
