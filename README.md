@@ -15,6 +15,14 @@
   <img align="center" alt="lua" src="https://img.shields.io/badge/LUA-007ACC?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
+## Discord Status
+  <p align="center">
+    <a href="https://discord.com/users/622503878226870273">
+        <img title="Nub server discord" alt="NUb.xyz discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+    </a>
+</p> 
+ 
+
 ### My Projects:
 - [Mora Security](about:blank)<br/>
 - [Nub.xyz](https://github.com/accountnop/magmaisgay)<br/>
