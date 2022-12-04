@@ -27,3 +27,6 @@
 - [Mora Security](about:blank)<br/>
 - [Nub.xyz](https://github.com/accountnop/magmaisgay)<br/>
 
+## Participations:
+- [Premium-Ware](discord.gg/tweedleak)<br/>
+- [Zyx Store](discord.gg/tweedleak)<br/>
